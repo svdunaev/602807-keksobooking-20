@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Stanislav Dunaev](https://up.htmlacademy.ru/javascript/20/user/602807).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
